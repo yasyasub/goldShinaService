@@ -2,119 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="464d638d-75d5-4503-be80-60b7d6c1a376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/vendor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/css/vendor.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-black-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-black-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-black-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-black-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-bold-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-bolditalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-bolditalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-bolditalic-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-bolditalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-heavyitalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-heavyitalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-heavyitalic-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-heavyitalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-italic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-italic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-italic-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-italic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-light-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-light-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-light-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-lightitalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-lightitalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-lightitalic-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-lightitalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-regular-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/merriweather/merriweather-regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-bold-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-extrabold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-extrabold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-extrabold-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-extrabold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-extralight-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-extralight-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-extralight-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-extralight-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-heavy-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-heavy-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-heavy-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-heavy-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-light-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-light-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-light-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-medium-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-medium-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-medium-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-medium-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-regular-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-semibold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-semibold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-semibold-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-semibold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-thin-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-thin-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-thin-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/fonts/raleway/raleway-thin-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/avatars/avatar-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/avatars/avatar-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/avatars/avatar-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/hero-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/logoK@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/logoW@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/beetle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/coffee.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/girl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/hotel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/judah.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/lighthouse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/modals/m-banjo-player.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/modals/m-beetle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/modals/m-coffee.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/modals/m-girl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/modals/m-hotel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/modals/m-judah.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goldShinaService-master-1/images/portfolio/modals/m-lighthouse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/avatar-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/avatars/avatar-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/hero-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logoK@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logoK@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logoW@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logoW@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/banjo-player.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/banjo-player.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/beetle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/beetle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/coffee.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/coffee.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/girl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/girl.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/hotel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/hotel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/judah.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/judah.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -156,7 +43,7 @@
       <updated>1570900161048</updated>
       <workItem from="1570900162499" duration="3927000" />
       <workItem from="1570976356840" duration="4954000" />
-      <workItem from="1570984389706" duration="968000" />
+      <workItem from="1570984389706" duration="1262000" />
     </task>
     <servers />
   </component>
