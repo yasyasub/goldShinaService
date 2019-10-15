@@ -2419,7 +2419,7 @@ footer a:visited {
 
 footer a:hover,
 footer a:focus {
-	color: #fdc501;
+	color: #ffc601;
 }
 
 footer hr {
@@ -2556,7 +2556,7 @@ footer .social-links li:first-child {
 	height: 54px;
 	width: 200px;
 	margin-left: -100px;
-	background: #e64e04;
+	background: #ffc601;
 	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
 	color: #FFFFFF;
 	text-align: center;
@@ -2581,3 +2581,181 @@ footer .social-links li:first-child {
 	position: relative;
 	right: -5px;
 }
+
+
+
+
+/**
+ * ===================================================================
+ * pricing section
+ *
+ * -------------------------------------------------------------------
+ */
+
+#pricing {
+    background: #EAEAED;
+    padding-top: 12rem;
+    padding-bottom: 9.6rem;
+}
+.pricing-content {
+    margin-top: 6.6rem;
+    max-width: 1280px;
+}
+.pricing-content .bgrid {
+    margin-bottom: 3.6rem;
+}
+.pricing-content .price-block {
+    background-color: #353c44;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+}
+.pricing-content .price-block .top-part,
+.pricing-content .price-block .bottom-part {
+    padding: 3.9rem 1.5rem;
+}
+.pricing-content .price-block .top-part {
+    background: #353c44;
+    color: #FFFFFF;
+    padding-bottom: 2.4rem;
+    position: relative;
+}
+.pricing-content .price-block .bottom-part {
+    padding-top: 2.4rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.pricing-content .price-block .plan-title {
+    color: #FFFFFF;
+    padding-bottom: 2.4rem;
+    margin-bottom: 1.2rem;
+    font-size: 2.4rem;
+    position: relative;
+}
+.pricing-content .price-block .plan-title::after {
+    display: block;
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 80px;
+    height: 1px;
+    content: '\0020';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    margin-left: -40px;
+}
+.pricing-content .price-block .plan-price {
+    font-family: "raleway-bold", sans-serif;
+    font-size: 5rem;
+    line-height: 1;
+    margin-bottom: .6rem;
+}
+.pricing-content .price-block .plan-price sup {
+    font-size: 2.4rem;
+    top: -1.5rem;
+    margin-right: 3px;
+}
+.pricing-content .price-block .price-month {
+    margin-bottom: 1.2rem;
+    font-family: "raleway-bold", sans-serif;
+    font-size: 1.6rem;
+}
+.pricing-content .price-block .price-meta {
+    color: rgba(255, 255, 255, 0.5);
+    line-height: 1.8rem;
+}
+.pricing-content .price-block .button {
+    color: #353F49;
+    padding: 0 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pricing-content .price-block .button:hover,
+.pricing-content .price-block .button:focus {
+    background: #58687b;
+    color: #FFFFFF;
+}
+.pricing-content .price-block .features {
+    list-style: none;
+    font-family: "raleway-bold", sans-serif;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.4);
+    margin: .6rem 0 1.8rem 0;
+}
+.pricing-content .price-block .features li {
+    padding: .6rem 0;
+    border-bottom: 1px solid #030303;
+}
+.pricing-content .price-block .features li strong {
+    color: #000000;
+    font-family: "raleway-bold", serif;
+    margin-right: 5px;
+}
+.pricing-content .price-block .features li:last-child {
+    border: none;
+}
+.pricing-content .primary .top-part {
+    background: #ffc601;
+}
+.pricing-content .primary .top-part::before {
+    content: attr(data-info);
+    display: block;
+    min-height: 48px;
+    line-height: 48px;
+    width: 75%;
+    text-align: center;
+    color: #030303;
+    background: #38424e;
+    font-family: "raleway-heavy", sans-serif;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    position: absolute;
+    bottom: -18px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    z-index: 500;
+    border-radius: 5px;
+}
+
+/**
+ * responsive:
+ * pricing
+ * -
+ */
+
+@media only screen and (max-width:1140px) {
+    .pricing-content {
+        max-width: 800px;
+    }
+    .pricing-content .bgrid {
+        width: 50%;
+        clear: none;
+    }
+    .pricing-content .bgrid:nth-child(2n+1) {
+        clear: both;
+    }
+}
+@media only screen and (max-width:600px) {
+    .pricing-content {
+        max-width: 420px;
+    }
+    .pricing-content .bgrid {
+        width: 90% !important;
+        float: none !important;
+        clear: both !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+.block-1-4 .bgrid {
+    width: 25%;
+}
+@media only screen and (max-width: 1140px){
+    .pricing-content .bgrid {
+        width: 50%;
+        clear: none;
+    }}
