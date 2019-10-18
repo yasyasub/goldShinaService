@@ -2,7 +2,6 @@
 @import url("fonts.css");
 @import url("font-awesome/css/font-awesome.min.css");
 
-
 html,
 body {
 	height: 100%;
@@ -41,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "raleway-heavy", sans-serif;
+	font-family: 'EB Garamond', serif;
 	color: #FFFFFF;
 	font-style: normal;
 	text-rendering: optimizeLegibility;
@@ -412,7 +411,7 @@ select {
 	outline: none;
 	vertical-align: middle;
 	color: #a3a4a6;
-	font-family: "raleway-bold", sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-size: 15px;
 	line-height: 24px;
 	border-radius: 3px;
@@ -445,7 +444,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
 	display: inline-block;
-	font: 16px/30px "raleway-heavy", sans-serif;
+	font: 16px/30px 'EB Garamond', serif;
 	padding: 9px 16px;
 	margin: 0 3px 6px 0;
 	background: #fdc501;
@@ -476,7 +475,7 @@ input[type="button"]:hover {
 
 label,
 legend {
-	font: 15px/30px "raleway-bold", sans-serif;
+	font: 15px/30px 'EB Garamond', serif;
 	margin: 12px 0;
 	color: #252525;
 	display: block;
@@ -485,7 +484,7 @@ legend {
 label span,
 legend span {
 	color: #575859;
-	font: 16px/30px "raleway-bold", sans-serif;
+	font: 16px/30px 'EB Garamond', serif;
 }
 
 input[type="checkbox"],
@@ -529,7 +528,7 @@ hr {
 
 /* sections */
 .section-head h1 {
-	font: 15px/30px "raleway-heavy", sans-serif;
+	font: 15px/30px 'EB Garamond', serif;
 	text-transform: uppercase;
 	letter-spacing: 2.5px;
 	color: #FFFFFF;
@@ -703,7 +702,7 @@ header .header-social li a:hover {
 
 /* nav-wrap */
 #nav-wrap {
-	font: 13px "raleway-heavy", sans-serif;
+	font: 13px 'EB Garamond', serif;
 	text-transform: uppercase;
 	letter-spacing: 1.5px;
 	float: left;  
@@ -956,13 +955,16 @@ ul#nav li.current a:after {
 #hero-slider {
 	margin: 120px 0 54px;
 }
+.hero-txt{
+    opacity: 100%;
 
+}
 #hero-slider .slides .flex-caption {
 	margin: 0 35% 0 30px;
 }
 
 #hero-slider .slides .flex-caption h1 {
-	font: 49px/1.3 "raleway-bold", sans-serif;
+	font: 49px/1.3 'EB Garamond', serif;
 	letter-spacing: -1px;
 	padding-bottom: 24px;
 	color: white;
@@ -1027,7 +1029,7 @@ ul#nav li.current a:after {
 
 @media only screen and (max-width:1200px) {
 	#hero-slider .slides .flex-caption h1 {
-		font: 44px/1.3 "raleway-bold", sans-serif;
+		font: 44px/1.3 'EB Garamond', serif;
 	}
 
 }
@@ -1049,7 +1051,7 @@ ul#nav li.current a:after {
 	}
 
 	#hero-slider .slides .flex-caption h1 {
-		font: 43px/1.3 "raleway-bold", sans-serif;
+		font: 43px/1.3 'EB Garamond', serif;
 	}
 
 	#hero-slider .slides .flex-caption h1::after {
@@ -1085,7 +1087,7 @@ ul#nav li.current a:after {
 	}
 
 	#hero-slider .slides .flex-caption h1 {
-		font: 41px/1.3 "raleway-bold", sans-serif;
+		font: 41px/1.3 'EB Garamond', serif;
 	}
 
 	#hero-slider .slides .flex-caption h3 {
@@ -1110,7 +1112,7 @@ ul#nav li.current a:after {
 	}
 
 	#hero-slider .slides .flex-caption h1 {
-		font: 39px/1.3 "raleway-bold", sans-serif;
+		font: 39px/1.3 'EB Garamond', serif;
 	}
 
 	#hero-slider .slides .flex-caption h3 {
@@ -1135,7 +1137,7 @@ ul#nav li.current a:after {
 	}
 
 	#hero-slider .slides .flex-caption h1 {
-		font: 36px/1.3 "raleway-bold", sans-serif;
+		font: 36px/1.3 'EB Garamond', serif;
 	}
 
 	#hero-slider .slides .flex-caption h3 {
@@ -1158,7 +1160,7 @@ ul#nav li.current a:after {
 	}
 
 	#hero-slider .slides .flex-caption h1 {
-		font: 30px/1.3 "raleway-bold", sans-serif;
+		font: 30px/1.3 'EB Garamond', serif;
 	}
 
 }
@@ -1217,7 +1219,7 @@ ul#nav li.current a:after {
 }
 
 #hero #more a {
-	font: 12px/54px "raleway-heavy", sans-serif;
+	font: 12px/54px 'EB Garamond', serif;
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -1386,14 +1388,14 @@ ul#nav li.current a:after {
 }
 
 .folio-item .portfolio-item-meta h5 {
-	font: 14px/21px "raleway-bold", sans-serif;
+	font: 14px/21px 'EB Garamond', serif;
 	letter-spacing: 2px;
 	color: white;
 	margin: 0;
 }
 
 .folio-item .portfolio-item-meta p {
-	font: 14px/18px "raleway-semibold", sans-serif;
+	font: 14px/18px 'EB Garamond', serif;
 	color: #8A8A8A;
 	margin: 0;
 }
@@ -1428,12 +1430,12 @@ ul#nav li.current a:after {
 	}
 
 	.folio-item .portfolio-item-meta h5 {
-		font: 13px/21px "raleway-bold", sans-serif;
+		font: 13px/21px 'EB Garamond', serif;
 		letter-spacing: 1px;
 	}
 
 	.folio-item .portfolio-item-meta p {
-		font: 13px/18px "raleway-semibold", sans-serif;
+		font: 13px/18px 'EB Garamond', serif;
 	}
 
 }
@@ -1444,12 +1446,12 @@ ul#nav li.current a:after {
 	}
 
 	.folio-item .portfolio-item-meta h5 {
-		font: 11px/18px "raleway-bold", sans-serif;
+		font: 11px/18px 'EB Garamond', serif;
 		letter-spacing: 1px;
 	}
 
 	.folio-item .portfolio-item-meta p {
-		font: 11px/16px "raleway-semibold", sans-serif;
+		font: 11px/16px 'EB Garamond', serif;
 	}
 
 }
@@ -1477,7 +1479,7 @@ ul#nav li.current a:after {
 }
 
 .popup-modal .description-box h4 {
-	font: 15px/24px "raleway-heavy", sans-serif;
+	font: 15px/24px 'EB Garamond', serif;
 	color: #000000;
 }
 
@@ -1489,7 +1491,7 @@ ul#nav li.current a:after {
 
 /* categories */
 .popup-modal .categories {
-	font: 11px/18px "raleway-heavy", sans-serif;
+	font: 11px/18px 'EB Garamond', serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	display: block;
@@ -1505,7 +1507,7 @@ ul#nav li.current a:after {
 }
 
 .popup-modal .link-box a {
-	font: 12px/60px "raleway-heavy", sans-serif;
+	font: 12px/60px 'EB Garamond', serif;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -1513,7 +1515,7 @@ ul#nav li.current a:after {
 	display: block;
 	text-align: center;
 	float: left;
-	width: 50%;
+	width: 100%;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -1657,7 +1659,7 @@ ul#nav li.current a:after {
 }
 
 #services .service-list h3 {
-	font: 18px/36px "raleway-heavy", sans-serif;
+	font: 18px/36px 'EB Garamond', serif;
 	color: #fdc501;
 	padding: 0;
 	text-transform: none;
@@ -1713,7 +1715,7 @@ ul#nav li.current a:after {
 }
 
 #about h3 {
-	font: 18px/36px "raleway-heavy", sans-serif;
+	font: 18px/36px 'EB Garamond', serif;
 	color: #fdc501;
 	text-transform: none;
 	letter-spacing: 0;
@@ -1899,7 +1901,7 @@ ul#nav li.current a:after {
 }
 
 #call-to-action h2 {
-	font: 30px/36px "raleway-bold", sans-serif;
+	font: 30px/36px 'EB Garamond', serif;
 	color: #FFFFFF;
 	letter-spacing: -0.5px;
 	margin-bottom: 24px;
@@ -1919,7 +1921,7 @@ ul#nav li.current a:after {
 }
 
 #call-to-action .action a {
-	font: 15px/60px "raleway-heavy", sans-serif;
+	font: 15px/60px 'EB Garamond', serif;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -1952,7 +1954,7 @@ ul#nav li.current a:after {
 	}
 
 	#call-to-action h2 {
-		font: 28px/36px "raleway-bold", sans-serif;
+		font: 28px/36px 'EB Garamond', serif;
 	}
 
 	#call-to-action p {
@@ -1969,7 +1971,7 @@ ul#nav li.current a:after {
 	}
 
 	#call-to-action h2 {
-		font: 26px/36px "raleway-bold", sans-serif;
+		font: 26px/36px 'EB Garamond', serif;
 	}
 
 	#call-to-action p {
@@ -2015,7 +2017,7 @@ ul#nav li.current a:after {
 
 #testimonial-slider .testimonial-author {
 	display: block;
-	font: 16px/24px "raleway-heavy", sans-serif;
+	font: 16px/24px 'EB Garamond', serif;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	margin-top: 24px;
@@ -2040,7 +2042,7 @@ ul#nav li.current a:after {
 
 #testimonial-slider .testimonial-author .author-info span {
 	display: block;
-	font: 14px/18px "raleway-bold", sans-serif;
+	font: 14px/18px 'EB Garamond', serif;
 	letter-spacing: 0;
 	text-transform: none;
 	color: rgba(0, 0, 0, 0.6);
@@ -2117,7 +2119,7 @@ ul#nav li.current a:after {
 	}
 
 	#testimonial-slider .testimonial-author {
-		font: 14px/24px "raleway-heavy" sans-serif;
+		font: 14px/24px 'EB Garamond', serif;
 	}
 
 	#testimonial-slider .testimonial-author img {
@@ -2127,7 +2129,7 @@ ul#nav li.current a:after {
 	}
 
 	#testimonial-slider .testimonial-author .author-info span {
-		font: 12px/18px "raleway-bold", sans-serif;
+		font: 12px/18px 'EB Garamond', serif;
 	}
 
 }
@@ -2156,7 +2158,7 @@ ul#nav li.current a:after {
 }
 
 #contact h3 {
-	font: 18px/36px "raleway-heavy", sans-serif;
+	font: 18px/36px 'EB Garamond', serif;
 	color: #fdc501;
 	padding: 0;
 	margin-bottom: 6px;
@@ -2240,7 +2242,7 @@ ul#nav li.current a:after {
 }
 
 #contact form div label {
-	font: 11px/24px "raleway-bold", sans-serif;
+	font: 11px/24px 'EB Garamond', serif;
 	position: absolute;
 	bottom: 3px;
 	right: 6px;
@@ -2261,7 +2263,7 @@ input[type="email"],
 }
 
 #contact button.submitform {
-	font: 15px/30px "raleway-heavy", sans-serif;
+	font: 15px/30px 'EB Garamond', serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	height: 60px;
@@ -2306,7 +2308,7 @@ input[type="email"],
 
 #submit-loader .text-loader {
 	display: none;
-	font: 14px/30px "raleway-heavy", sans-serif;
+	font: 14px/30px 'EB Garamond', serif;
 	color: #FFFFFF;
 	letter-spacing: 3px;
 	text-transform: uppercase;
@@ -2457,7 +2459,7 @@ footer .copyright {
 	clear: both;
 	margin: 15px 0;
 	padding: 24px 18px 6px 18px;
-	font: 14px/24px "raleway-medium", sans-serif;
+	font: 14px/24px 'EB Garamond', serif;
 	letter-spacing: .5px;
 	text-align: center;
 }
@@ -2561,7 +2563,7 @@ footer .social-links li:first-child {
 	color: #FFFFFF;
 	text-align: center;
 	border-radius: 3px;
-	font: 12px/54px "raleway-heavy", sans-serif;
+	font: 12px/54px 'EB Garamond', serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	-moz-transition: all 0.3s ease-in-out;
@@ -2644,7 +2646,8 @@ footer .social-links li:first-child {
     margin-left: -40px;
 }
 .pricing-content .price-block .plan-price {
-    font-family: "raleway-bold", sans-serif;
+    font-family: 'EB Garamond', serif;
+
     font-size: 5rem;
     line-height: 1;
     margin-bottom: .6rem;
@@ -2656,7 +2659,8 @@ footer .social-links li:first-child {
 }
 .pricing-content .price-block .price-month {
     margin-bottom: 1.2rem;
-    font-family: "raleway-bold", sans-serif;
+    font-family: 'EB Garamond', serif;
+
     font-size: 1.6rem;
 }
 .pricing-content .price-block .price-meta {
@@ -2676,7 +2680,8 @@ footer .social-links li:first-child {
 }
 .pricing-content .price-block .features {
     list-style: none;
-    font-family: "raleway-bold", sans-serif;
+    font-family: 'EB Garamond', serif;
+
     font-size: 1.5rem;
     color: rgba(0, 0, 0, 0.4);
     margin: .6rem 0 1.8rem 0;
@@ -2687,7 +2692,7 @@ footer .social-links li:first-child {
 }
 .pricing-content .price-block .features li strong {
     color: #000000;
-    font-family: "raleway-bold", serif;
+    font-family: 'EB Garamond', serif;
     margin-right: 5px;
 }
 .pricing-content .price-block .features li:last-child {
@@ -2705,7 +2710,8 @@ footer .social-links li:first-child {
     text-align: center;
     color: #030303;
     background: #38424e;
-    font-family: "raleway-heavy", sans-serif;
+    font-family: 'EB Garamond', serif;
+
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .15rem;
@@ -2750,7 +2756,12 @@ footer .social-links li:first-child {
     }
 }
 
-
+.map{
+    border: lightgrey;
+    width: 100%;
+    max-width: -webkit-fill-available;
+    max-height: 300px;
+}
 .block-1-4 .bgrid {
     width: 25%;
 }
